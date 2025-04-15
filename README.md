@@ -4,7 +4,14 @@ Welcome to my Android Development journey! This repository tracks the apps and p
 
 ## About
 
-This project is intended for learning and experimenting with Android development. I'll be adding various apps that demonstrate my understanding of core Android concepts and techniques. The goal is to build a solid foundation and create a portfolio of Android apps.
+This project is a learning repository where I explore Android development by building simple apps with multiple activities. Each activity demonstrates specific concepts in Android, such as **UI components**, **activity transitions**, and **intents**.
+
+## What I've Learned
+
+- **Activities**: Understanding how Android applications are divided into activities, and how to navigate between them.
+- **Intents**: Passing data between activities using **Intents** and **Intent Filters**.
+- **UI Components**: Using basic UI elements like `TextView`, `Button`, and `LinearLayout`.
+- **Layouts**: Creating flexible layouts to organize and display UI components effectively.
 
 ## Getting Started
 
